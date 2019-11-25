@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d94f19d.chunk.css",
+    "main.js": "/static/js/main.689ba5c5.chunk.js",
+    "main.js.map": "/static/js/main.689ba5c5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.67ec7fbf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.67ec7fbf.js.map",
+    "static/js/2.b1216f5d.chunk.js": "/static/js/2.b1216f5d.chunk.js",
+    "static/js/2.b1216f5d.chunk.js.map": "/static/js/2.b1216f5d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dee4604769b5a99f73c71e8bace171a2.js": "/precache-manifest.dee4604769b5a99f73c71e8bace171a2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9d94f19d.chunk.css.map": "/static/css/main.9d94f19d.chunk.css.map",
+    "static/media/mario.png": "/static/media/mario.2f45b67d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67ec7fbf.js",
+    "static/js/2.b1216f5d.chunk.js",
+    "static/css/main.9d94f19d.chunk.css",
+    "static/js/main.689ba5c5.chunk.js"
+  ]
+}
